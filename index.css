@@ -1,0 +1,137 @@
+.card{
+    border: solid 1px grey;
+    width: 250px;
+    height: 300px;
+    border-radius: 8px;
+    background-color: #ededed;
+    
+    
+}
+
+.card1{
+    border: thin 1px white;
+    width: 200px;
+    height: 180px;
+    margin-top: 19px;
+    margin-left: 20px;
+    background-color: grey;
+    text-align: center;
+}
+
+.card1 h2{
+    color: white;
+    padding: 64px;
+    }
+
+    .card h3{
+        text-align: center;
+    }
+
+    .card p{
+        text-align: center;
+    }
+
+    .card2{
+        border: solid 1px grey;
+        width: 250px;
+        height: 300px;
+        border-radius: 8px;
+        background-color: #ededed;
+        
+    }
+
+    .card22{
+        border: thin 1px white;
+        width: 200px;
+        height: 180px;
+        margin-top: 19px;
+        margin-left: 20px;
+        background-color: grey;
+        text-align: center;  
+    }
+
+    .card22 h2{
+        color: white;
+        padding: 64px;
+    }
+
+    .card2 h3{
+        text-align: center;
+    }
+
+    .card2 p{
+        text-align: center;
+    }
+
+    .card3{
+        border: solid 1px grey;
+        width: 250px;
+        height: 300px;
+        border-radius: 8px;
+        background-color: #ededed;
+    }
+
+    .card33{
+        border: thin 1px white;
+        width: 200px;
+        height: 180px;
+        margin-top: 19px;
+        margin-left: 20px;
+        background-color: grey;
+        text-align: center;  
+    }
+
+    .card33 h2{
+        color: white;
+        padding: 64px;
+    }
+
+    .card3 h3{
+        text-align: center; 
+    }
+
+    .card3 p{
+        text-align: center;
+    }
+
+    .card4{
+        border: solid 1px grey;
+        width: 250px;
+        height: 300px;
+        border-radius: 8px;
+        background-color: #ededed;
+        margin-top: 20px;
+        margin-left: 540px;
+    }
+
+    .card44{
+        border: thin 1px white;
+        width: 200px;
+        height: 180px;
+        margin-top: 19px;
+        margin-left: 20px;
+        background-color: grey;
+        text-align: center;  
+    }
+
+    .card44 h2{
+        color: white;
+        padding: 64px;
+    }
+
+    .card4 h3{
+        text-align: center; 
+    }
+
+    .card4 p{
+        text-align: center;
+    }
+
+    .card5{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        margin-top: 20px;
+        
+        
+    }
